@@ -1,4 +1,6 @@
 # online-electric-billing-system
+
+it is online electric billing system  that calculates money per consumption of your energy based on resident, industry and commercial packages.
 ![localhost_7070_onlineelectricbill_Signup jsp](https://user-images.githubusercontent.com/87223459/223646707-847b0e55-b18b-42e6-989b-fc7e3b1db9b9.png)
 
 ![login](https://user-images.githubusercontent.com/87223459/223646352-6393b417-3802-4b95-9c4e-858fdfe9f2a8.png)
